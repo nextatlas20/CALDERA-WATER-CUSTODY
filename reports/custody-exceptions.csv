@@ -1,0 +1,3 @@
+sample_id,station_id,watershed,collected_at,alerts,turbidity_ntu,ph,chain_status
+SM-043,RIV-2,Granite Run,2091-09-12T09:05:00Z,TURBIDITY|PH,9.3,6.0,SEALED
+SM-044,LK-7,Bluewater Lake,2091-09-12T09:25:00Z,CHAIN|PH,1.4,8.8,BROKEN
