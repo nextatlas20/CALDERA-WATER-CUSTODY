@@ -1,0 +1,4 @@
+station_id,watershed,max_turbidity_ntu,min_ph,max_ph
+RIV-1,North Fork,5.0,6.5,8.5
+RIV-2,Granite Run,8.0,6.2,8.4
+LK-7,Bluewater Lake,3.0,6.8,8.6
